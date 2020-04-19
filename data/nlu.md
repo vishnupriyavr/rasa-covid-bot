@@ -57,18 +57,17 @@
 
 ## intent:general_definition_coronavirus
 - What is coronavirus?
-- What does covid mean?
-- I don't know anything about corona, can you please give me a brief of what it is?
 - What does Covid-19 stand for?
 - why is it called corona virus?
 - what kind of disease is corona?
+- I don't know anything about covid, can you give me a brief of what it is?
 
 ## intent:symptoms_coronavirus
 - are aches a symptom?
-- can you tell me what the symptoms are?
 - how can i tell if i have corona virus?
 - how is your body affected by corona?
 - what are the signs and symptoms?
+- what are the factors that cause corona?
 
 ## intent:how_does_corona_spread
 - could i pass corona virus onto someone else?
